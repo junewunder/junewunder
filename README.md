@@ -1,6 +1,6 @@
 ### hey I'm june
 
-I'm a PhD student at BU working with Marco Gaboardi. I'm studying programming languages, type theory, concurrency, web development, and making advanced type system features accessible to more people.
+I'm a PhD student at Boston University working with Marco Gaboardi. I'm studying programming languages, type theory, concurrency, web development, and making advanced type system features accessible to more people.
 
 contact me: public@junewunder.com
 
