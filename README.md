@@ -7,7 +7,7 @@ I'm june, a PhD student advised by <a href="https://cs-people.bu.edu/gaboardi/">
 - web development
 - concurrency/highly multithreaded programs
 
-want to get in contact? my email is june@junewunder.com and I am on mathstodon.xyz
+want to get in contact? my email is june@junewunder.com and I am on <a href="https://mathstodon.xyz/@junewunder">mathstodon.xyz</a>
 
 During my PhD I designed Willow, a type system for functional reactive programming that provides guarantees on temporal behavior. Willow captures the chain of events that may be caused by a state change or event firing.
 
