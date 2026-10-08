@@ -11,4 +11,4 @@ want to get in contact? my email is june@junewunder.com and I am on <a href="htt
 
 During my PhD I designed Willow, a type system for functional reactive programming that provides guarantees on temporal behavior. Willow captures the chain of events that may be caused by a state change or event firing.
 
-In addition I also worked with Stefan Muller on GML, a language that can find common runtime-bugs in highly multithreaded programs.
+In addition I also worked with Stefan Muller and Arthur Azevedo de Amorim on GML, a language that can find common runtime-bugs in highly multithreaded programs.
